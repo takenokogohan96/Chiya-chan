@@ -1,4 +1,4 @@
-# Deepl-DiscordBOT
+# Chiya-chan
 
 これはVOICEROIDを用いたDiscord用の読み上げBotです<br>
 ※本スクリプトは個人利用レベルのものであり、第三者による利用を深く想定していません。予めご了承ください
@@ -31,6 +31,9 @@
 * `help` ヘルプを表示します
 * `reset` chiya-chanを再起動します
 * `set [channelID]` 読み上げを行うチャンネルを再設定します
+
+## 構成
+![](Component_diagram.drawio.svg)
 
 ## 使用している主なライブラリなど
 
